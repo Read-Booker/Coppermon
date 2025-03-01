@@ -1,0 +1,13 @@
+name = "Crafting Recipes For Create"
+filename = "Recipes For Create-Forge-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dFK7YEzQ/versions/NyRC8zRQ/Recipes%20For%20Create-Forge-1.1.4.jar"
+hash-format = "sha512"
+hash = "af504bb98810434d41c62c597d33cc108a2170d699ba6618a1cd9dc6dce79a40a8d78554ff941515e7dbe0c7752286bf0e9e62dc30f49a6130866f493d419fc0"
+
+[update]
+[update.modrinth]
+mod-id = "dFK7YEzQ"
+version = "NyRC8zRQ"

@@ -1,0 +1,13 @@
+name = "Extended World Height (Y=512)"
+filename = "extended-wold-height-512-3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5s3brdBV/versions/OvpVJEfp/extended-wold-height-512-3.2.jar"
+hash-format = "sha512"
+hash = "e3c35666f9549e39ed0699fea3def9c6f8869e7c33dc9f38f3d9212fd08c30d06797449621d5449b44cd7a3edd5466dbac7cadd47d96a48115c953369ade9837"
+
+[update]
+[update.modrinth]
+mod-id = "5s3brdBV"
+version = "OvpVJEfp"

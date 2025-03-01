@@ -1,0 +1,13 @@
+name = "Escape Rope"
+filename = "escape_rope-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39b2f7d337288e03b42f7a9fda7e971b86458bdd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5383179
+project-id = 1027542

@@ -1,0 +1,13 @@
+name = "Vivecraft"
+filename = "vivecraft-1.20.1-1.2.5-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f52acc2e4293ca5bad35ef4de83f7868b14f3fec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6208688
+project-id = 667903

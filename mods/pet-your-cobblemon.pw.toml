@@ -1,0 +1,13 @@
+name = "Pet Your Cobblemon"
+filename = "petyourcobblemon-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "810665cd228adde1b91e715b91a7dcbe86853007"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5300947
+project-id = 931198

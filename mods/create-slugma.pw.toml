@@ -1,0 +1,13 @@
+name = "Create Slugma"
+filename = "createslugma-1.20.1-forge-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cGZKGnx7/versions/tGZvwX2R/createslugma-1.20.1-forge-1.0.3.jar"
+hash-format = "sha512"
+hash = "de779579ab3132658662d803fa1e0cdc4d9e06876af250a63475870198ce777396b31642bb2d23a830cb69f076d8165b8052c880cc1ffb4b31b1bd8d4e0eb1c4"
+
+[update]
+[update.modrinth]
+mod-id = "cGZKGnx7"
+version = "tGZvwX2R"

@@ -1,0 +1,13 @@
+name = "Create: More Renewable"
+filename = "createmr-1.20.1-0.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "085da0a87aa9dc6de34ba0751818789d46444ce2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4900448
+project-id = 915908

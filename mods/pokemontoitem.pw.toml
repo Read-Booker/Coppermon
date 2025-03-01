@@ -1,0 +1,13 @@
+name = "Cobblemon: PokemonToItem"
+filename = "PokemonToItem-forge-0.1.2+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/S7Fx6BvD/versions/xthYajWk/PokemonToItem-forge-0.1.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "bdc9cc3722267252ca2ab243d8d38242ed3afd86a20aaa2ab1ecacededb57847add7e96353b7a141a7f2fc6e69d694ee7d06d35ce6f1804f5f1b26bb12a070dd"
+
+[update]
+[update.modrinth]
+mod-id = "S7Fx6BvD"
+version = "xthYajWk"

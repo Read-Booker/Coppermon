@@ -1,0 +1,13 @@
+name = "Alex's Caves Plus"
+filename = "alexs_caves_plus-1.1.2.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87a1bd6a8fbd9f2a574077682ca9bfddd1fa0c6a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5920754
+project-id = 1021474

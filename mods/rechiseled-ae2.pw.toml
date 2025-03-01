@@ -1,0 +1,13 @@
+name = "Rechiseled: AE2"
+filename = "rechiseledae2-neoforge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa0f94f076c5d582b57a8a61ed9b9d1665b4f5a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5184898
+project-id = 987534

@@ -1,0 +1,13 @@
+name = "Tetra's Weapons"
+filename = "tetras_weapons-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Bq681hV/versions/j9uTfdJd/tetras_weapons-1.0.0.jar"
+hash-format = "sha512"
+hash = "aeced04e2c280ccf4b4d33d4ddd05391c4cc514754658f9585ae9db83812c0f0df1f85ae9d383353a92219daa0fcef979fbaa54007dbe0b231245f7061f3f898"
+
+[update]
+[update.modrinth]
+mod-id = "8Bq681hV"
+version = "j9uTfdJd"

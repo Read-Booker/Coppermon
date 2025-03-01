@@ -1,0 +1,1 @@
+{"enableChunkreset":false,"allowUnsafeDescription":"there are 3 security levels, \u0027UNSAFE\u0027 which allows all iotas deserialization, \u0027TRUENAME\u0027 which is basically UNSAFE but Entity Iotas are checked for truenames, and \u0027RESTRICT\u0027 which blocks unsafe iotas ","allowUnsafeDeserialization":"TRUENAME"}

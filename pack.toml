@@ -1,0 +1,13 @@
+name = "Coppermon Forge"
+author = "Read"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "66c33ac218178baa7ee4714be499db96502d9522f606c07bdb18950e7df41c9e"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"
