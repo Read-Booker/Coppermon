@@ -1,6 +1,6 @@
 name = "Cobblemon: PokemonToItem"
 filename = "PokemonToItem-forge-0.1.2+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/S7Fx6BvD/versions/xthYajWk/PokemonToItem-forge-0.1.2%2B1.20.1.jar"

@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonextras.pw.toml"
-hash = "5a16528a6425788ef62204cb5714a46aaf05a6cc19283eb0f2acf324ec61f946"
+hash = "57bb35c4f09d2dc9a726da52a7a05421cf39a8ba9f69890550534d27196ffa94"
 metafile = true
 
 [[files]]
@@ -428,11 +428,6 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
-metafile = true
-
-[[files]]
-file = "mods/create_oxidized.pw.toml"
-hash = "b94031f870705ace24912a5ab460abcb716ed6b2959aa29bc26d25376b5ddcf8"
 metafile = true
 
 [[files]]
@@ -772,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/pokemontoitem.pw.toml"
-hash = "1794396f335f4cce42525d0ec4836994d8932b6e2787e739bd0ba1dcd93cad81"
+hash = "71c0c4c137e5bf0dc2260f42bfb94405ed6361253b58bf31e74a458469599425"
 metafile = true
 
 [[files]]
