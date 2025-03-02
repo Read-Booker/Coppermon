@@ -1009,3 +1009,8 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
 metafile = true
+
+[[files]]
+file = "resourcepacks/maxis-journeymap-cobblemon-icons.pw.toml"
+hash = "29d014fc82978785d5df865dc8f7b2c52a7050170cc4d29e585901f7861a6d47"
+metafile = true
