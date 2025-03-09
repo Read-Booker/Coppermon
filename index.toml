@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/lmft.json"
+hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "63833ffe55dc61c65d118669f3ba9d9870310dc2354387cba81011490bc40ccf"
 metafile = true
@@ -608,6 +612,11 @@ metafile = true
 [[files]]
 file = "mods/littletiles.pw.toml"
 hash = "0c8d657fc12ac8b0d42c10fdddb71ac5f4f49824f8befc22d786746687d43a17"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "ccb79452729ccb62e2a3afa88b80e834411ac1e9ed4712cbd27be6ba98d4ff79"
 metafile = true
 
 [[files]]
