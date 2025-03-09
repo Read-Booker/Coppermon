@@ -1,13 +1,13 @@
 name = "Create: Better Villager"
-filename = "create_better_villagers-1.2.4.j.jar"
+filename = "create_better_villagers-1.2.8-Forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "560fc4db5d8e2baa06917563ca88d7491cb324f6"
+hash = "09c7b5aa74eae83437deda2ef4c15ec32d5687e9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6195153
+file-id = 6267306
 project-id = 1108525

@@ -1,13 +1,13 @@
 name = "Biomes O' Plenty Delight"
-filename = "biomesoplentydelight-1.1.0-1.20.1.jar"
+filename = "biomesoplentydelight-1.1.0.1-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "395455cd3e1cfd6edd001dd583d2b7d1d0ce938f"
+hash = "d96ca1e188903cb6c42e73f8c0569b725c6d6eeb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5957908
+file-id = 6061417
 project-id = 1095870
