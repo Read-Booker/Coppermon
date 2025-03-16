@@ -958,7 +958,3 @@ metafile = true
 file = "resourcepacks/maxis-journeymap-cobblemon-icons.pw.toml"
 hash = "29d014fc82978785d5df865dc8f7b2c52a7050170cc4d29e585901f7861a6d47"
 metafile = true
-
-[[files]]
-file = "scripts/recipes.zs"
-hash = "4cee52d047a19f88e9104d33c75dc86913f6e9411ad2ef4f5939922481894197"
