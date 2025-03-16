@@ -290,6 +290,11 @@ hash = "66b495297e344d92a3104696bcda0f071b00073f3bf81830df7a3c6c6437142b"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "dd5114899f4f134619210bd224f9c4a66132e04f30ba8252789ef220e5e72776"
+metafile = true
+
+[[files]]
 file = "mods/create-applied-kinetics.pw.toml"
 hash = "a2fa043804d702a3f18770810c0cb99d48430a80a0b9c7eee373d26c0d895743"
 metafile = true
@@ -460,6 +465,11 @@ hash = "ba6c13e70f06dde3b8d01d4143c22fea36ec035d7cd8834c7a82aa778a809467"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "628b59d31760869883fc30bcad9708d48301bf1766e66f2ec67299017a65e478"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "4afe9f677fe18062bf189d7693811d791ea11fb22e9e774c5b29c019a42a9ef9"
 metafile = true
@@ -590,8 +600,8 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
-file = "mods/larger-ore-veins-deluxe.pw.toml"
-hash = "733a9e5062732860e0506040c7aced8f833da0c229e46ea5f1e07cd8d229bac7"
+file = "mods/large-ore-deposits.pw.toml"
+hash = "9841a1aa83ff9af5655a010f549233febdc54b7fd76920a80aa91d1e74612987"
 metafile = true
 
 [[files]]
@@ -948,3 +958,7 @@ metafile = true
 file = "resourcepacks/maxis-journeymap-cobblemon-icons.pw.toml"
 hash = "29d014fc82978785d5df865dc8f7b2c52a7050170cc4d29e585901f7861a6d47"
 metafile = true
+
+[[files]]
+file = "scritpts/recipes.zs"
+hash = "83d3f185512849af56e0d5cdf8d1e66e1906987fe841ef648427053dbe17a57d"
