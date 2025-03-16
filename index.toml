@@ -960,5 +960,5 @@ hash = "29d014fc82978785d5df865dc8f7b2c52a7050170cc4d29e585901f7861a6d47"
 metafile = true
 
 [[files]]
-file = "scritpts/recipes.zs"
+file = "scripts/recipes.zs"
 hash = "83d3f185512849af56e0d5cdf8d1e66e1906987fe841ef648427053dbe17a57d"
