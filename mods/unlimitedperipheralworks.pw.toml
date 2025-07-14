@@ -1,13 +1,13 @@
 name = "UnlimitedPeripheralWorks"
-filename = "peripheralworks-forge-1.20.1-1.4.5.jar"
+filename = "peripheralworks-fabric-1.20.1-1.4.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "480add47f5022e7e773b4ccfadc7dd3e456e8a1c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Sf7QBsRP/versions/iKyKrwx1/peripheralworks-fabric-1.20.1-1.4.5.jar"
+hash-format = "sha512"
+hash = "27285bbbb830153f4d6adc8d5e72f3ca55a55f57d328dbb01d0a0c9f6278293e483e5f7877318de51cee74d3a51cf8b9af5876a0e1ef1a16c3b5e5d852cf2295"
 
 [update]
-[update.curseforge]
-file-id = 6172125
-project-id = 621851
+[update.modrinth]
+mod-id = "Sf7QBsRP"
+version = "iKyKrwx1"

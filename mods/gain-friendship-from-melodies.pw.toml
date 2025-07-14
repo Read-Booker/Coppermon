@@ -1,13 +1,13 @@
 name = "Gain Friendship From Melodies"
-filename = "gain_friendship_from_melodies-forge-0.2.4.jar"
+filename = "gain_friendship_from_melodies-forge-0.2.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e06617ec66aa89811d52a92a1a6626669a6e1aed"
+hash = "dc18e84ffdda70ecd7796bee98faa42aef08227a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6012122
+file-id = 6330880
 project-id = 1108632
