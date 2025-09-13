@@ -310,6 +310,16 @@ hash = "951186c2932b7f448801123b90255bc384611d1bb09a5664a4132e226899f960"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons-advanced-technologies.pw.toml"
+hash = "275b0ed788b9b508aaa5c9188b385dea8495f439d5bafac0d76b35352aafea87"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "58458b5ea5eba986c14b79bab34f84e7f44dba5edcedff94c0122865ccb4c520"
+metafile = true
+
+[[files]]
 file = "mods/create-big-contraptions.pw.toml"
 hash = "edbc007f194b0c91b46f4ff74147078981988d246ea336b4b2fc45767bc70583"
 metafile = true
@@ -492,11 +502,6 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "e07385f0f5ea1a0f11c14b1ad33d908ab6ddad0951680807daf4c46a5343349b"
-metafile = true
-
-[[files]]
-file = "mods/gain-friendship-from-melodies.pw.toml"
-hash = "b7cee07ae2918c0924bc24af26bdac0fe16ea4e13dd09ebfc503eac59781918e"
 metafile = true
 
 [[files]]
@@ -790,6 +795,11 @@ hash = "33101dcbe8358febee792dfca345c827d0296db809f1b0299bd8231e1c15ead2"
 metafile = true
 
 [[files]]
+file = "mods/rpl.pw.toml"
+hash = "de023c84385bc6e7399d54e2c172c96c95e501104c822496ff1b336ea11a60b3"
+metafile = true
+
+[[files]]
 file = "mods/rs-requestify.pw.toml"
 hash = "852aae4cac2057a25eed55d5ab00b91a4dcc8603bf63168cfcfdb36ad7b41ddc"
 metafile = true
@@ -911,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/turtlematic.pw.toml"
-hash = "8879c65659409c01a38d7d09273a8b543ff225fc7f42a46e35ec3e023d4d5f7b"
+hash = "39af17bc142b6ed455f36e2d675ccf770144539d6f3cc2887983fd4631d1b259"
 metafile = true
 
 [[files]]
